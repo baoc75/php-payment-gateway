@@ -10,6 +10,7 @@ This is an simple payment gateway written in PHP that allow you to run your own 
 - Secure from XSS attacks, MySQL injections,...
 
 ##Todo
+- Format the code, add some comment.
 - Change language of the source code from Vietnamese to English.
 - Implent 1Checkout or similar one to handle credit card processing.
 - Fix some bugs and improve the performance.
