@@ -8,6 +8,8 @@ This is a simple payment gateway written in PHP that allow you to run your own P
 - OOP Styles.
 - MySQL PDO.
 - Secure from XSS attacks, MySQL injections,...
+- Design based on Bootstrap.
+
 
 ##Todo
 - Format the code, add some comment.
