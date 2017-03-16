@@ -9,7 +9,7 @@ $error = new ErrorRep();
 
 if($user->is_logged_in()!="")
 {
-	$user->redirect('home.php');
+	$user->redirect('chobao.php');
 }
 
 if(isset($_POST['btn-submit']))
