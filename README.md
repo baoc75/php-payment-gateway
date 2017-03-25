@@ -7,6 +7,7 @@ We are in version 0.1 (Alpha Release).
 - Simple to understand and work with.
 - Perfect for who are beginner in PHP developement.
 - OOP Styles.
+- PHP7 Supported.
 - MySQL PDO.
 - Secure from XSS attacks, MySQL injections,...
 - Design based on Bootstrap.
