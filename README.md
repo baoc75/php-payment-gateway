@@ -1,6 +1,7 @@
 # PHP Payment Gateway
 This is a simple payment gateway written in PHP that allow you to run your own Paypal or Apple Pay. The source code are written in OOP style.
 We are in version 0.1 (Alpha Release).
+Deposit, credit card processing feature is not developing right now. 
 
 ## Features
 - Open source and continue to be updated.
@@ -25,3 +26,4 @@ We are in version 0.1 (Alpha Release).
 - Create a new database (recommended) or use existing one.
 - Import the banking.sql file into your database, this will create 2 tables: "activities" and "tbl_users".
 - Edit the dbconfig.php file in config directory and fill in with your database infomation and your website path. 
+- You are ready to go.
