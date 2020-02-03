@@ -1,6 +1,8 @@
 # PHP Payment Gateway
 This is a simple payment gateway written in PHP that allow you to run your own Paypal or Apple Pay. The source code are written in OOP style.
 
+**Help wanted: Feel free to open a pull request or report issues here, I am a bit busy right now but I will happy to help when I am available**
+
 We are in version 0.1.3 (Alpha Release).
 
 Deposit, credit card processing feature is not developing right now. 
